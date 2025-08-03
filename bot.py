@@ -43,4 +43,7 @@ async def ayuda(ctx):
                    "/hora - Ver hora actual")
 
 
+#rememmber to put the token.
+
+
 
